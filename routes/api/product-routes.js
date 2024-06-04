@@ -107,6 +107,7 @@ router.put('/:id', (req, res) => {
     });
 });
 
+// delete a product by id
 router.delete('/:id', (req, res) => {
   Product.destroy({
     where: {
