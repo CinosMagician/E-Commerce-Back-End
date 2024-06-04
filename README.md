@@ -36,7 +36,7 @@ This can be used to demonstrate having a shop, with different products and tags 
     
 ## Demo Video
 
-<a href="">Click Here</a>
+Video Link: <a href="https://drive.google.com/file/d/12s52FJnLZavo4HkELIFWhKrw3ohDRgYp/view">https://drive.google.com/file/d/12s52FJnLZavo4HkELIFWhKrw3ohDRgYp/view</a>
 
 ## Questions
 
